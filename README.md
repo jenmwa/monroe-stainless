@@ -1,4 +1,4 @@
-#wordpress site for startup MONROE STAINLESS
+wordpress site for startup MONROE STAINLESS
 
 website for a startup company in the brewery industry.<br>
 I worked with wordpress for the first time, some plugins and I did all the photo and editing for the site.
