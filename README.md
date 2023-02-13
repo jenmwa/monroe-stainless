@@ -11,7 +11,11 @@ plugins:
  - Modula for image galleries
  - WP forms for contact forum (forst edition of the page, customer wanted visible mailadresses for lastest version. 
 
+------------------------------------------------------
+printscreens of the site.
 Landing page:
+
+
 ![MS_start](https://user-images.githubusercontent.com/113125376/218447509-88240f1c-c228-4291-b1de-aa4dbe67130e.jpg)
 ![MS_about](https://user-images.githubusercontent.com/113125376/218447559-32a0e5f8-2d7f-4d30-9093-8657537c510c.jpg)
 ![MS_cat](https://user-images.githubusercontent.com/113125376/218447590-b559a855-b897-4b8b-a0ce-863677d10358.jpg)
