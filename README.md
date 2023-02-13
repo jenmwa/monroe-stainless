@@ -12,7 +12,7 @@ plugins:
  - WP forms for contact forum (forst edition of the page, customer wanted visible mailadresses for lastest version. 
 
 ------------------------------------------------------
-printscreens of the site.
+printscreens of the site.<br>
 Landing page:
 
 
