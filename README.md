@@ -41,5 +41,5 @@ Logo created by me:<br>
 ![logo](https://user-images.githubusercontent.com/113125376/218448303-b57e93b1-1c7f-4a5f-8505-ccca8ffe9b93.jpg)
 <br>
 some social media material:<br>
- ![instagram](https://user-images.githubusercontent.com/113125376/218448390-a6bdd3da-9a8a-4844-8d53-10001bec808f.jpg)
-![instagram](https://user-images.githubusercontent.com/113125376/218448399-0c30c492-177a-48bf-ae8f-56ee885330ee.jpg)
+![instagram](https://user-images.githubusercontent.com/113125376/218448390-a6bdd3da-9a8a-4844-8d53-10001bec808f.jpg)
+![client](https://user-images.githubusercontent.com/113125376/218450208-61085bd1-3341-425b-ae4d-0b748b72f2c5.jpg)
