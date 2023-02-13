@@ -1,12 +1,28 @@
-# monroe-stainless<img width="674" alt="Skärmavbild 2023-02-13 kl  12 13 08" src="https://user-images.githubusercontent.com/113125376/218443190-c12bde17-8ffd-4333-b7c3-7c7766157604.png">
-<img width="781" alt="Skärmavbild 2023-02-13 kl  12 12 48" src="https://user-images.githubusercontent.com/113125376/218443214-fe67abd6-d5ef-4472-9e24-d103ae1d95ff.png">
-<img width="362" alt="Skärmavbild 2023-02-13 kl  12 11 51" src="https://user-images.githubusercontent.com/113125376/218443223-20246437-9b49-4775-a912-4c7e8c8e2b84.png">
-<img width="372" alt="Skärmavbild 2023-02-13 kl  12 11 31" src="https://user-images.githubusercontent.com/113125376/218443230-b0bef3dd-d75f-416c-8d9d-dd47e0f772ee.png">
-<img width="951" alt="Skärmavbild 2023-02-13 kl  12 11 04" src="https://user-images.githubusercontent.com/113125376/218443232-52c750ac-bd1f-4c1d-b78d-84710bb9514b.png">
-<img width="949" alt="Skärmavbild 2023-02-13 kl  12 10 55" src="https://user-images.githubusercontent.com/113125376/218443237-ecfda603-5f79-4e39-acdd-6181232b714d.png">
-<img width="450" alt="Skärmavbild 2023-02-13 kl  12 10 30" src="https://user-images.githubusercontent.com/113125376/218443239-bf3d6874-dcc1-49ab-b87a-fc7821bfed9b.png">
-<img width="984" alt="Skärmavbild 2023-02-13 kl  12 10 17" src="https://user-images.githubusercontent.com/113125376/218443243-fd12b08b-343e-4299-852f-ea25e73c0b95.png">
-<img width="985" alt="Skärmavbild 2023-02-13 kl  12 10 09" src="https://user-images.githubusercontent.com/113125376/218443248-8530f76e-2ec6-4007-9aac-e81bc4f54ba5.png">
-<img width="855" alt="Skärmavbild 2023-02-13 kl  12 09 55" src="https://user-images.githubusercontent.com/113125376/218443250-983f0604-9d57-4973-a836-fbecb94f4345.png">
-<img width="884" alt="Skärmavbild 2023-02-13 kl  12 09 46" src="https://user-images.githubusercontent.com/113125376/218443257-2497ca45-602e-4e53-977d-24a9060e1fdb.png">
-<img width="940" alt="Skärmavbild 2023-02-13 kl  12 09 36" src="https://user-images.githubusercontent.com/113125376/218443261-aeb4f295-aac3-4396-9df3-2e99f5c3d907.png">
+Landing page:
+![MS_start](https://user-images.githubusercontent.com/113125376/218447509-88240f1c-c228-4291-b1de-aa4dbe67130e.jpg)
+![MS_about](https://user-images.githubusercontent.com/113125376/218447559-32a0e5f8-2d7f-4d30-9093-8657537c510c.jpg)
+![MS_cat](https://user-images.githubusercontent.com/113125376/218447590-b559a855-b897-4b8b-a0ce-863677d10358.jpg)
+![MS_partners](https://user-images.githubusercontent.com/113125376/218447680-bfd55ced-e69d-443d-8dc7-77cafe807efc.jpg)
+![MS_footer](https://user-images.githubusercontent.com/113125376/218447690-d0196fae-73f5-4f52-84d1-aab684435864.jpg)
+![MS_menu](https://user-images.githubusercontent.com/113125376/218447705-b01c3109-6287-41a3-ba4e-8f61b7a1ae15.jpg)
+
+Product page:
+![MS_subpage](https://user-images.githubusercontent.com/113125376/218447719-662d46a1-b22a-45a4-81ba-c2d19238f6ef.jpg)
+![MS_categories](https://user-images.githubusercontent.com/113125376/218447765-4b9ef91c-7fcc-4cfa-99e6-87bee60ff714.jpg)
+![MS_product-category](https://user-images.githubusercontent.com/113125376/218447778-8873d89b-5eed-4728-86f3-f14fa3bb45bf.jpg)
+
+product pages with info and gallery:
+![MS_productpage](https://user-images.githubusercontent.com/113125376/218447966-ad7fa2a8-74a9-4662-bf42-e075cea3df68.jpg)
+
+subpage with image gallery for customers:
+![MS_gallry](https://user-images.githubusercontent.com/113125376/218448092-fa5c1228-d89d-42b3-b391-fac0f2670672.jpg)
+
+and english subpage with all info in english for international sales:
+![MS_eng](https://user-images.githubusercontent.com/113125376/218448263-71961abb-3418-4822-aace-777daa7e7730.jpg)
+
+Logo created by me:
+![logo](https://user-images.githubusercontent.com/113125376/218448303-b57e93b1-1c7f-4a5f-8505-ccca8ffe9b93.jpg)
+
+some social media material:
+ ![instagram](https://user-images.githubusercontent.com/113125376/218448390-a6bdd3da-9a8a-4844-8d53-10001bec808f.jpg)
+![instagram](https://user-images.githubusercontent.com/113125376/218448399-0c30c492-177a-48bf-ae8f-56ee885330ee.jpg)
