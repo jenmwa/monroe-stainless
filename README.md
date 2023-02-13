@@ -5,7 +5,9 @@ I worked with wordpress for the first time, some plugins and I did all the photo
 Also provided logo and some social media materials for the customer.
 
 
-theme: Astra
+theme: Astra<br>
+https://wpastra.com/<br>
+
 plugins:
  - Matomo Analytics for web analytics
  - Modula for image galleries
